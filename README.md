@@ -67,5 +67,4 @@ SubmitTextWithPicView的使用方式现在默认是通过xml文件添加，然�
         }
     }
     本项目只适合在activity，如果需要通过fragment进行唤醒   那你需要自己更改context的传入值了  
-  cameraAlbumPopWindow = new CameraAlbumPopWindow(MainActivity.this, new CameraAlbumPopWindow.CameraAlbumListener() {xuyao
-  cameraAlbumPopWindow = new CameraAlbumPopWindow(MainActivity.this, new CameraAlbumPopWindow.CameraAlbumListener() {
+  
